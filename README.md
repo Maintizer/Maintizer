@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Maintizer
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning Fullstack Webdevelopment
-- 📫 How to reach me on discord: Maintizer
+- 👋 Hi, I’m @Maintizer.
+- 👀 I’m interested in gaming, programming and music.
+- 🌱 I’m currently learning Fullstack Webdevelopment.
+- 📫 Message me on Discord: maintizer.
 
 ---
 
-Hello World
+print("Hello World!")
 
 <!---
 Maintizer/Maintizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
